@@ -1,9 +1,11 @@
 # Laniya's Touch Operations Hub
 
-Working operations app for Laniya's Touch Quality Cleaning Services (clients, visits, staff, pipeline, 90-day plan).
+**Open the live app (not this README):**
 
-## Open the live app
+https://breezeandlooop-web.github.io/laniyas-touch-ops-hub/
 
-Use the Grok preview of this project, or after `index.html` is in this repo:
+If Pages is still warming up, use this copy:
 
-https://htmlpreview.github.io/?https://github.com/breezeandlooop-web/laniyas-touch-ops-hub/blob/main/index.html
+https://raw.githack.com/breezeandlooop-web/laniyas-touch-ops-hub/main/index.html
+
+Safari / Chrome will show the dark Laniya's Touch sidebar. Do not open `index.html` as a GitHub file — that shows source, not the app.
